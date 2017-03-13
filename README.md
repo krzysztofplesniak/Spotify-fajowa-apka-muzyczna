@@ -2,11 +2,11 @@ Do  zrobienia jest duuużo:
 
 1. KOMPONENT APP
 ----------------------
-radio z opacity z sephią jak stara fotografia 
-linearny gradient  nałożyć na tło od lewej do prawej, przechodzące jak na stronie głównej spotify.com/pl 
-dodać kompoment Jumbotron z Bootsrapa
-zanim wpiszę cokolwiek na środku predefiniowane utwory z listy 10 zapisane setState   
-kompomenty zdjęcia responsywne react-bootstrap.github.io/components.html#media-content 
+- radio z opacity z sephią jak stara fotografia 
+- linearny gradient  nałożyć na tło od lewej do prawej, przechodzące jak na stronie głównej spotify.com/pl 
+- dodać kompoment Jumbotron z Bootsrapa
+- zanim wpiszę cokolwiek na środku predefiniowane utwory z listy 10 zapisane setState   
+- kompomenty zdjęcia responsywne react-bootstrap.github.io/components.html#media-content 
 
 2. POLE WPISZ AUTORA Z FILTROWANIEM 
 ----------------------------------------------------------
