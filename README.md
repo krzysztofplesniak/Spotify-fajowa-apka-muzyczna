@@ -1,4 +1,7 @@
-Do  zrobienia jest duuużo: 
+Prosta aplikacja na Spotify do odsłuchiwania piosenek po autorze. 
+Kiedyś do popraawienia. Lista tematów/tasków
+
+TO-DO
 
 1. KOMPONENT APP
 ----------------------
